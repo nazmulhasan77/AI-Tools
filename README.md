@@ -129,6 +129,7 @@
 ## 🕹️ Games & Entertainment
 
 - [AI Dungeon](https://play.aidungeon.io/) – Text-based interactive adventure game.  
+- [Auferet](https://auferet.com/) – AI game master for solo text adventures and tabletop RPGs, with persistent memory and your own uploaded lore.
 
 ## 📈 Business, Marketing & SEO
 
