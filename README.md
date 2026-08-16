@@ -64,6 +64,7 @@
 ## 🎥 Video Creation & Editing
 
 - [Pictory](https://pictory.ai/) – Turns articles into videos.  
+- [videos.social](https://videos.social/?utm_source=nazmulhasan77-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) – Turns blogs, PDFs, and prompts into editable faceless videos.  
 - [Synthesia](https://www.synthesia.io/) – Avatar-led AI video presenter.  
 - [Runway ML](https://runwayml.com/) – AI video editing & effects.  
 - [Descript](https://www.descript.com/) – Edit videos by editing text.  
