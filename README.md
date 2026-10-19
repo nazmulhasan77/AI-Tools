@@ -126,6 +126,7 @@
 - [ChatPDF](https://www.chatpdf.com/) – Reads and summarizes PDFs.  
 - [FormX.ai](https://www.formx.ai/) – Extracts data from scanned docs.  
 - [Notably AI](https://www.notably.ai/) – Helps synthesize user research.  
+- [Pulse](https://pulsecorp.co) – AI-moderated customer interviews for market research.  
 
 ## 🕹️ Games & Entertainment
 
