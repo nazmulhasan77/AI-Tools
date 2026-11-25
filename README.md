@@ -105,6 +105,7 @@
 - [Codiga](https://www.codiga.io/) – Smart code review assistant.  
 - [CodeGPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) – VS Code extension for GPT coding.  
 - [Replit Ghostwriter](https://replit.com/site/ghostwriter) – Replit’s in-browser AI coding assistant.  
+- [YYLO](https://yylo.dev) – Open-source command-line orchestrator for coding agents, with typed task, validation, and merge boundaries.
 
 ## 🧩 Productivity & Note-Taking
 
